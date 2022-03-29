@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ougNyLnbS2j2dbcbSueejv64MrQn9XVE7NzEz7rBkTQlBooDW0RfUh8okJa7eg0CuC7+iFGzATuRvt5KSj2XSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\AuthenticatedWebApplication\\AuthenticatedWebApplication\\AuthenticatedWebApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
