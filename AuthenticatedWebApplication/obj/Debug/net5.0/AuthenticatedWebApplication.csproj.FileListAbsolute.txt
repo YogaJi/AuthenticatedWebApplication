@@ -194,4 +194,4 @@ C:\Users\DELL\source\repos\AuthenticatedWebApplication\AuthenticatedWebApplicati
 C:\Users\DELL\source\repos\AuthenticatedWebApplication\AuthenticatedWebApplication\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
 C:\Users\DELL\source\repos\AuthenticatedWebApplication\AuthenticatedWebApplication\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 C:\Users\DELL\source\repos\AuthenticatedWebApplication\AuthenticatedWebApplication\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
-C:\Users\DELL\source\repos\AuthenticatedWebApplication\AuthenticatedWebApplication\obj\Debug\net5.0\AuthenticatedWebApplication.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\AuthenticatedWebApplication\AuthenticatedWebApplication\obj\Debug\net5.0\Razor\Views\Test\Secret.cshtml.g.cs
